@@ -10,8 +10,8 @@
 
 <h1 align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/SmoggyOwO">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Heyo,%20Aditya%20Here!;Backend%20developer;DevOps%20Engineer;Web3%20Enthusiast&font=Raleway&center=true&width=440&height=50&color=CF41AE&vCenter=true&pause=420&size=30" /></a>
+  <a href="https://github.com/avinashgadi">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Heyo,%20Avinash%20Here!;FullStack%20developer;DevOps%20Engineer;Web3%20Enthusiast&font=Raleway&center=true&width=440&height=50&color=CF41AE&vCenter=true&pause=420&size=30" /></a>
 </h1>
 
 </div>
@@ -28,7 +28,7 @@
       <td width="70%" >
 
 ```markdown
-aditya@github:~$ ./welcome.sh
+avinash@github:~$ ./welcome.sh
 
 🎓 Pursuing a Bachelor's in Computer Science
 🌱 Currently diving into DevOps and GoLang
@@ -40,7 +40,7 @@ aditya@github:~$ ./welcome.sh
 🥅 2024 Goals: Contribute more to Open Source projects.
 👾 Love to tinker with Custom ROMS
 🎯 Preping for GSOC 2025
-📬 How to reach me: dashing4149@gmail.com
+📬 How to reach me: avinashgadi25@gmail.com
 ⚡ Fun fact: In australia there are 48 million kangaroos and in Uruguay there are 3,457,380 inhabitants. So if the kangaroos decide to invade Uruguay, each Uruguayan will have to fight 14 kangaroos.
 ```
 
