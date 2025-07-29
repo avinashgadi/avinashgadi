@@ -102,7 +102,7 @@ avinash@github:~$ ./welcome.sh
 
 | Project       | Description                | Tech Stack                        | Live Demo |
 |---------------|----------------------------|-----------------------------------|-----------|
-| [Pure Harvest](#) | E-commerce website         | MERN, Tailwind CSS                | [Live](#) |
+| [Pure Harvest](#) | E-commerce website         | MERN, Tailwind CSS                | [Live](https://purehavest-e-commerce.vercel.app/) |
 | [Air-BNB-Clone](#)    | Movie discovery website    | React, TMDB API, Tailwind CSS     | [Live](#) |
 | [Zerodha](#)   | Restaurant website         | React, Bootstrap                  | [Live](#) |
 | [Cloud-Class-Room](#)  | Cricket legends tribute    | HTML, CSS, JS                     | [Live](#) |
