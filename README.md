@@ -102,10 +102,10 @@ avinash@github:~$ ./welcome.sh
 
 | Project       | Description                | Tech Stack                        | Live Demo |
 |---------------|----------------------------|-----------------------------------|-----------|
-| [Pure Harvest](#) | E-commerce website         | MERN, Tailwind CSS                | [Live](https://purehavest-e-commerce.vercel.app/) |
-| [Air-BNB-Clone](#)    | Movie discovery website    | React, TMDB API, Tailwind CSS     | [Live](#) |
-| [Zerodha](#)   | Restaurant website         | React, Bootstrap                  | [Live](#) |
-| [Cloud-Class-Room](#)  | Cricket legends tribute    | HTML, CSS, JS                     | [Live](#) |
+| [Pure Harvest](https://github.com/avinashgadi/purehavest_e-commerce) | E-commerce website         | MERN, Tailwind CSS                | [Live](https://purehavest-e-commerce.vercel.app/) |
+| [Air-BNB-Clone](#)    | Residence or room booking website | Mern   | [Live](#) |
+| [Zerodha](#)   | A stock market website      | Mern                  | [Live](#) |
+| Anvi's Cafe(https://github.com/avinashgadi/cafe-frontend)  | A cafe Website   | Mern         | [Live](https://cafe-frontend-navy.vercel.app/) |
   
 <pre>
 P.S: Top languages is only a metric of the languages my public code consists of and doesn't reflect my experience or skill level.
