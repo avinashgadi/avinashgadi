@@ -97,12 +97,15 @@ avinash@github:~$ ./welcome.sh
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=avinashgadi&show_icons=true&theme=radical" />
   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashgadi&layout=compact&theme=radical" />
 </p>
-
- 
-
-
 <br/>
+## 🚀 Featured Projects
 
+| Project       | Description                | Tech Stack                        | Live Demo |
+|---------------|----------------------------|-----------------------------------|-----------|
+| [Pure Harvest](#) | E-commerce website         | MERN, Tailwind CSS                | [Live](#) |
+| [Air-BNB-Clone](#)    | Movie discovery website    | React, TMDB API, Tailwind CSS     | [Live](#) |
+| [Zerodha](#)   | Restaurant website         | React, Bootstrap                  | [Live](#) |
+| [Cloud-Class-Room](#)  | Cricket legends tribute    | HTML, CSS, JS                     | [Live](#) |
   
 <pre>
 P.S: Top languages is only a metric of the languages my public code consists of and doesn't reflect my experience or skill level.
