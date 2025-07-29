@@ -105,7 +105,7 @@ avinash@github:~$ ./welcome.sh
 | [Pure Harvest](https://github.com/avinashgadi/purehavest_e-commerce) | E-commerce website         | MERN, Tailwind CSS                | [Live](https://purehavest-e-commerce.vercel.app/) |
 | [Air-BNB-Clone](#)    | Residence or room booking website | Mern   | [Live](#) |
 | [Zerodha](#)   | A stock market website      | Mern                  | [Live](#) |
-| Anvi's Cafe(#)|(https://github.com/avinashgadi/cafe-frontend)  | A cafe Website   | Mern         | [Live](https://cafe-frontend-navy.vercel.app/) |
+| Anvi's Cafe(https://github.com/avinashgadi/cafe-frontend)  | A cafe Website   | Mern         | [Live](https://cafe-frontend-navy.vercel.app/) |
   
 <pre>
 P.S: Top languages is only a metric of the languages my public code consists of and doesn't reflect my experience or skill level.
