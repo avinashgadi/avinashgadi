@@ -102,7 +102,7 @@ avinash@github:~$ ./welcome.sh
 
 | Project       | Description                | Tech Stack                        | Live Demo |
 |---------------|----------------------------|-----------------------------------|-----------|
-| [Pure Harvest](https://github.com/avinashgadi/purehavest_e-commerce) | E-commerce website         | MERN, Tailwind CSS                | [Live](https://purehavest-e-commerce.vercel.app/) |
+| [Pure Harvest](https://github.com/avinashgadi/purehavest_e-commerce) | E-commerce website         | MERN, Tailwind CSS                | [Live](https://pureharvest-mern.vercel.app/) |
 | [Air-BNB-Clone](#)    | Residence or room booking website | Mern   | [Live](https://list-n-rent.vercel.app/) |
 | [Zerodha](#)   | A stock market website      | Mern                  | [Live](#) |
 | [Anvi's Cafe](https://github.com/avinashgadi/cafe-frontend)  | A cafe Website   | Mern         | [Live](https://cafe-frontend-navy.vercel.app/) |
