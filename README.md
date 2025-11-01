@@ -102,7 +102,7 @@ avinash@github:~$ ./welcome.sh
 
 | Project       | Description                | Tech Stack                        | Live Demo |
 |---------------|----------------------------|-----------------------------------|-----------|
-| [FinSight] (https://github.com/avinashgadi/FinSight_AI_Expense_Tracker) | AI-Based Expense Tracker         | MERN, Redux, Websockets                | [Live](https://finsight-et.netlify.app/) |
+| [FinSight](https://github.com/avinashgadi/FinSight_AI_Expense_Tracker) | AI-Based Expense Tracker         | MERN, Redux, Websockets                | [Live](https://finsight-et.netlify.app/) |
 | [Pure Harvest](https://github.com/avinashgadi/purehavest_e-commerce) | E-commerce website         | MERN, Tailwind CSS                | [Live](https://pureharvest-mern.vercel.app/) |
 | [Air-BNB-Clone](#)    | Residence or room booking website | Mern   | [Live](https://list-n-rent.vercel.app/) |
 | [Zerodha](#)   | A stock market website      | Mern,Tailwind css                  | [Live](#) |
