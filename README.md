@@ -90,14 +90,6 @@ avinash@github:~$ ./welcome.sh
 </div>
 
 <br/>
-
- ## 📈 GitHub Stats
-
-<p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=avinashgadi&show_icons=true&theme=radical" />
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashgadi&layout=compact&theme=radical" />
-</p>
-<br/>
 ## 🚀 Featured Projects
 
 | Project       | Description                | Tech Stack                        | Live Demo |
@@ -107,7 +99,15 @@ avinash@github:~$ ./welcome.sh
 | [Air-BNB-Clone](#)    | Residence or room booking website | Mern   | [Live](https://list-n-rent.vercel.app/) |
 | [Zerodha](#)   | A stock market website      | Mern,Tailwind css                  | [Live](#) |
 | [Anvi's Cafe](https://github.com/avinashgadi/cafe-frontend)  | A cafe Website   | Mern,BootStrapcss         | [Live](https://cafe-frontend-navy.vercel.app/) |
-  
+
+ ## 📈 GitHub Stats
+
+<p align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=avinashgadi&show_icons=true&theme=radical" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashgadi&layout=compact&theme=radical" />
+</p>
+<br/>
+
 <pre>
 P.S: Top languages is only a metric of the languages my public code consists of and doesn't reflect my experience or skill level.
 </pre>
